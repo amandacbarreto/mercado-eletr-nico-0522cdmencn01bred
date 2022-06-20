@@ -96,7 +96,7 @@ Mayara Abreu
 - Beatriz Friso
 - Luan Victor
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/beatrizfriso/aula12-listas.git)
 
 #### Descrição/Observação (Opcional)
 
